@@ -23,9 +23,6 @@ This e-portfolio showcases my projects, activities, and progress in my academic 
 - Tools Used:
 - Link:
 
-## 📸 Screenshots
-(Add images of your work here if available)
-
 ## 📞 Contact
 - Email: your-email@example.com
 - GitHub: https://github.com/jocutanld
