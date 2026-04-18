@@ -12,17 +12,6 @@ This e-portfolio showcases my projects, activities, and progress in my academic 
 - Problem Solving
 - Teamwork and Communication
 
-## 📂 Projects
-### 1. Project Title
-- Description: Short explanation of the project
-- Tools Used: HTML, CSS, JavaScript
-- Link: (Add your project link here)
-
-### 2. Project Title
-- Description: Short explanation
-- Tools Used:
-- Link:
-
 ## 📞 Contact
 - Email: your-email@example.com
 - GitHub: https://github.com/jocutanld
